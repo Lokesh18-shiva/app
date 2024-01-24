@@ -1,0 +1,287 @@
+{
+    "ban": [
+        
+        {
+            "image_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/festive/Qmin_EverydayEasy_AnnouncementBanner_327-by-100-pix-02.jpg",
+            "is_clickable": true,
+            "sort_sequence": 4,
+            "target_element": "channel",
+            "target_element_id": "qmin_red",
+            "id": "EverydayEasyClickableBanner",
+            "meta": {
+                "name": "Everyday Easy",
+                "id": "a23e59a1-fd6f-437c-8556-6ac7fc18c688",
+                "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/explore/Everyday-Easy.jpg",
+                "created_at": "2022-12-19T15:37:55.7Z",
+                "header_text": "Everyday Easy",
+                "body_hero_text": "Happiness Delivered",
+                "body_description": "Ready to make your Everyday Easy? We have the perfect Q for your cravings – Enjoy wraps & rolls, biryani & pulao, tikkas, Indian mains, pizzas, desserts & much more delivered right to your doorstep.",
+                "query_attribute": "qmin_red",
+                "channel_description": "Popular Favourites",
+                "is_new": true,
+                "type": "generic",
+                "min_price": "₹200 Onwards",
+                "icon_url": null,
+                "restaurant_id": null,
+                "static_content_url": "$base_url?catgory=qmin_red"
+            }
+        }
+    ],
+    "feeds": [
+       
+        
+        {
+            "name": "Purani Dilli",
+            "description": "Purani Dilli",
+            "icon_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/default/sample-images/Masked-Group-3x-2.png",
+            "sort_sequence": 6,
+            "is_clickable": true,
+            "stories": [
+                {
+                    "story_id": "6a85a485-7601-41d5-93f0-1021c6bc8db3",
+                    "sort_sequence": 1,
+                    "content_type": "video",
+                    "content_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/videos/Video-with-audio-1.mp4",
+                    "cta_text": "Order Now",
+                    "cta_type": "internal",
+                    "cta_target_element_type": "festive_menu",
+                    "cta_target_element_id": "2022-Mumbai-Purani Dilli",
+                    "meta": {
+                        "id": "2022-Mumbai-Purani Dilli",
+                        "festival_id": "2022-Mumbai-Purani Dilli",
+                        "festival_name": "Purani Dilli",
+                        "festival_description": " ",
+                        "banner_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                        "festival_icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                        "start_date": "",
+                        "end_date": "",
+                        
+                        "prebook_enabled": true,
+                        "prebook_event_name": "Purani Dilli",
+                        "prebook_event_description": "Purani Dilli Pre Event Booking Feature",
+                        "featuring_restaurants": [
+                            {
+                                "id": "d766c2d7-cf0c-4b8b-8422-2b9fcafdd744",
+                                "name": "Masala Kraft",
+                                "hotel_name": "The Taj Mahal Palace",
+                                "hotel_alias": "Taj Mahal Palace",
+                                "cost_for_two": 4000,
+                                "restaurant_details_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                                "menu_page_header_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Secondary-(2).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                                "home_page_card_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                                "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                                "cuisines": "Indian Cuisine"
+                            }
+                        ],
+                        "featuring_hotels": [
+                            {
+                                "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                                "hotel_name": "The Taj Mahal Palace",
+                                "hotel_alias": "The Taj Mahal Palace",
+                                "hotel_code": "TMPT",
+                                "hotel_image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/qmin-hotels/phase-2/TMPT-Image.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                                "distance_in_km": 2.9
+                            }
+                        ]
+                    },
+                    "footer": {
+                        "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                        "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a> "
+                    },
+                    "is_viewed": true
+                }
+            ],
+            "feed_id": "e62399e8-b1fd-47ee-86b1-b2c5a2106caf",
+            "is_viewed": false,
+            "story_index": 3
+        }
+    ],"generic_channels": [
+        {
+            "name": "Family Feast",
+            "id": "c2555461-96be-48e4-80da-64e907b8bfea",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/explore/Family-Feast.jpg",
+            "created_at": "2022-12-19T15:37:55.7Z",
+            "header_text": "Family Feast",
+            "body_hero_text": "Family Meals",
+            "body_description": "Family Meals",
+            "query_attribute": "qmin_family_feast",
+            "channel_description": "Multi-Cuisine menus",
+            "is_new": false,
+            "type": "generic",
+            "min_price": "₹2250 Onwards",
+            "restaurant_id": null,
+            "hotel_id": "52aa8be6-5c19-4ff0-9658-169922f486b3",
+            "icon_url": null,
+            "offer_details": null
+        },
+        {
+            "name": "Everyday Easy",
+            "id": "a23e59a1-fd6f-437c-8556-6ac7fc18c688",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/explore/Everyday-Easy.jpg",
+            "created_at": "2022-12-19T15:37:55.7Z",
+            "header_text": "Everyday Easy",
+            "body_hero_text": "Happiness Delivered",
+            "body_description": "Ready to make your Everyday Easy? We have the perfect Q for your cravings – Enjoy wraps & rolls, biryani & pulao, tikkas, Indian mains, pizzas, desserts & much more delivered right to your doorstep.",
+            "query_attribute": "qmin_red",
+            "channel_description": "Popular Favourites",
+            "is_new": true,
+            "type": "generic",
+            "min_price": "₹200 Onwards",
+            "restaurant_id": "e78a397c-1684-4d88-af5a-3634ba990e63",
+            "hotel_id": null,
+            "icon_url": null,
+            "offer_details": null
+        },
+        {
+            "name": "Cakes & Bakes",
+            "id": "1fb1f88a-4fe5-416c-ab35-f962a0313fec",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/explore/cakes-and-bakes.jpg",
+            "created_at": "2022-12-19T15:37:55.7Z",
+            "header_text": "Cakes & Bakes",
+            "body_hero_text": "Cakes & Bakes",
+            "body_description": "Cake shop and delicatessen, offers delicious desserts, & freshly baked breads and savoury treat",
+            "query_attribute": "qmin_la_patisserie",
+            "channel_description": "Warm bakes and decadent cakes",
+            "is_new": false,
+            "type": "generic",
+            "min_price": "₹250 Onwards",
+            "restaurant_id": null,
+            "hotel_id": null,
+            "icon_url": null,
+            "offer_details": null
+        },
+        {
+            "name": "Q Kids",
+            "id": "cfd381e4-be54-4e6e-af07-528d6fac6c09",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/explore/q-kids.jpg",
+            "created_at": "2020-12-19T15:37:55.7Z",
+            "header_text": "Qmin Kids",
+            "body_hero_text": "Kids Special Menu",
+            "body_description": "An all-things Kids menu curated for those little eyes to light up. Fun-filled meals, tasty bites and delicious treats filled with exciting ingredients with a colourful twist. All-time favourites like jalapeno poppers, nuggets, burgers, chocolate brownies and more that kids will love. Let the fun begin!",
+            "query_attribute": "qmin_kids",
+            "channel_description": "What’s food without some fun?",
+            "is_new": false,
+            "type": "generic",
+            "min_price": "₹300 Onwards",
+            "restaurant_id": null,
+            "hotel_id": null,
+            "icon_url": null,
+            "offer_details": null
+        }
+    ],   "popular_curations": [
+        {
+            "curation_name": "Indian",
+            "curation_type": "cuisine",
+            "description": "Indian",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Indian.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Indian.jpg",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "d4c00b4a-ff5a-4cae-8589-c03f307e2696"
+        },
+        {
+            "curation_name": "Asian",
+            "curation_type": "cuisine",
+            "description": "Asian",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Asian.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Asian.jpg",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "2bbd3371-4195-4560-af76-489c14e9845e"
+        },
+        {
+            "curation_name": "World Cuisine",
+            "curation_type": "cuisine",
+            "description": "World Cuisine",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/World-Cuisine.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/World-cuisine-inside.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "7fbd06f1-a66a-4164-9a6c-445973aaf5b8"
+        },
+        {
+            "curation_name": "Biryani",
+            "curation_type": "dish_type",
+            "description": "Biryani",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Biryani.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Biryani.jpg",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "0f6c1c32-b8a3-4765-9140-ec64f778f5cf"
+        },
+        {
+            "curation_name": "Burgers & Rolls",
+            "curation_type": "dish_type",
+            "description": "Burgers & Rolls",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Burgers-Rolls.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/Rolls-inside.jpeg/jcr:content/renditions/cq5dam.web.640.640.png",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "bec5fa8e-f503-4db8-ae81-38887ae6a4e2"
+        },
+        {
+            "curation_name": "Pizza & Pasta",
+            "curation_type": "dish_type",
+            "description": "Pizza & Pasta",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Pizza.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Pizza-Pasta.jpg",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "61d61f10-c8dc-46e7-8d2e-8ad20ac1e427"
+        },
+        {
+            "curation_name": "Calorie Lite",
+            "curation_type": "classification",
+            "description": "",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Calorie-Lite.jpg",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Calorie-Lite.jpg",
+            "target_element_id": "qmin_calorie_lite",
+            "restaurant_id": null,
+            "curation_id": "06928e03-aea9-4f1d-8a0d-74ff0137b9d6"
+        },
+        {
+            "curation_name": "Restaurants",
+            "curation_type": "hotels",
+            "description": "",
+            "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/Restaurant-home.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/restaurants-inside.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+            "target_element_id": "",
+            "restaurant_id": null,
+            "curation_id": "f25e185f-3d8e-4a58-9c16-13236036f6f9"
+        }
+    ], "custom_channels": [
+        {
+            "name": "Bulk Ordering",
+            "id": "1388850c-f900-464c-9a8d-81115216d15d",
+            "image_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/default/250x250.jpg",
+            "created_at": "2022-12-19T14:05:19.982",
+            "header_text": "",
+            "body_hero_text": "",
+            "body_description": "",
+            "query_attribute": "qmin_celebrations",
+            "channel_description": "One stop for all your virtual celebrations",
+            "is_new": false,
+            "type": "custom",
+            "restaurant_id": null,
+            "min_price": "",
+            "icon_url": null
+        },
+        {
+            "name": "Hampers",
+            "id": "bcdd175f-d9bd-4e1d-b7d3-4a800ca7fc26",
+            "image_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/default/250x250-2.jpg",
+            "created_at": "2022-12-19T06:14:55.7Z",
+            "header_text": "",
+            "body_hero_text": "",
+            "body_description": "",
+            "query_attribute": "qmin_hampers",
+            "channel_description": "Exclusive bundles of delight",
+            "is_new": false,
+            "type": "custom",
+            "restaurant_id": "27b89ad5-7368-47d0-8eb8-ce5dd255b9ce",
+            "min_price": "",
+            "icon_url": null
+        }
+    ]
+
+}
